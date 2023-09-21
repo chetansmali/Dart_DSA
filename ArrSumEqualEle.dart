@@ -8,7 +8,7 @@ void main(){
       for(int j=i;j<arr.length;j++){
         csum = csum +arr[j];
         if(csum ==sum){
-          print("theg index $i and $j");
+          print("the index $i and $j");
         }
       }
   }
